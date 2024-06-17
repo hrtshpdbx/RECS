@@ -44,7 +44,7 @@ The RECS 2009 survey collects energy-related data from 12,083 randomly selected 
 
 ## Proposed Approach
 
-![proposed_approach](https://github.com/hrtshpdbx/RECS-2009/blob/main/images/proposed_approach.png)
+![proposed_approach](https://github.com/hrtshpdbx/RECS-2009/blob/main/images/Proposed_approach.png)
 
 ### Exploratory Data Analysis (EDA)
 - Conduct comprehensive EDA to gain insights into the dataset's structure and characteristics.
