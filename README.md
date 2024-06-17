@@ -13,7 +13,6 @@ This study aims to develop a data-driven framework for predicting annual househo
 ## Table of Contents
 - [Introduction](#introduction)
 - [Problem Statement and Objectives](#problem-statement-and-objectives)
-- [Literature Survey](#literature-survey)
 - [Dataset and Existing Methodology](#dataset-and-existing-methodology)
 - [Proposed Approach](#proposed-approach)
 - [Experiments and Results](#experiments-and-results)
@@ -32,13 +31,12 @@ To develop a data-driven framework to predict annual household electricity consu
 - **Data Pre-Processing:** Utilize techniques like Exploratory Data Analysis (EDA), dimensionality reduction, and feature extraction to enhance data quality and prepare it for modeling.
 - **Modeling:** Implement base models such as Extreme Gradient Boosting (XGBoost) and feedforward deep neural networks to capture complex patterns in the data. Experiment with ensemble learning techniques to combine the strengths of multiple models and achieve superior predictive performance.
 
-## Literature Survey
-A comprehensive literature survey was conducted to understand the nature of the problem and explore potential solutions. Four key papers were reviewed, summarizing their methodologies, merits, and limitations.
-
 ## Dataset and Existing Methodology
 
 ### RECS 2009 Dataset
 The RECS 2009 survey collects energy-related data from 12,083 randomly selected households. Despite its extensive coverage, the dataset exhibits a notable presence of missing values, which can impact the analysis and modeling process.
+
+![nonsensical_values](https://github.com/hrtshpdbx/RECS-2009/blob/main/images/nonsense.png) 
 
 ### Existing Methodology
 - **Feature Selection and Preprocessing:** Reduces the initial 940 attributes to 76 features using subset selection, feature extraction, and PCA.
