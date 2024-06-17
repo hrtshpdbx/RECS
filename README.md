@@ -2,8 +2,8 @@
 # Residential Electricity Consumption Prediction
 
 ## Authors
-- Aakarsh Bansal
 - Smruthi Bhat
+- Aakarsh Bansal
 
 ## Abstract
 This study aims to develop a data-driven framework for predicting annual household electricity consumption using ensemble learning techniques. The framework involves several stages, including data preprocessing (Exploratory Data Analysis, dimensionality reduction, and feature extraction), identifying relevant features using Information Gain techniques, and applying predictive models. The objective is to provide accurate predictions of household electricity consumption to aid in better resource management and energy conservation.
