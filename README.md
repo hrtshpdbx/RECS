@@ -44,6 +44,8 @@ The RECS 2009 survey collects energy-related data from 12,083 randomly selected 
 
 ## Proposed Approach
 
+![proposed_approach](https://github.com/hrtshpdbx/RECS-2009/blob/main/images/proposed_approach.png)
+
 ### Exploratory Data Analysis (EDA)
 - Conduct comprehensive EDA to gain insights into the dataset's structure and characteristics.
 - Identify patterns, distributions, and potential outliers within the data.
@@ -52,9 +54,13 @@ The RECS 2009 survey collects energy-related data from 12,083 randomly selected 
 - Handle missing values, outliers, and inconsistencies in the data.
 - Employ techniques related to correlation, covariance, and missing value imputation.
 
+![correlation_matrix](https://github.com/hrtshpdbx/RECS-2009/blob/main/images/correlation_matrix.png)
+
 ### Feature Scaling, Selection, and Dimensionality Reduction
 - Normalize numerical features using Standard Scaling.
 - Apply Information Gain and Principal Component Analysis (PCA) for feature selection and dimensionality reduction.
+
+![feature_importance](https://github.com/hrtshpdbx/RECS-2009/blob/main/images/feature_importance.png)
 
 ### Modeling
 - Develop predictive models using regression algorithms such as linear regression, decision trees, random forests, and gradient boosting.
