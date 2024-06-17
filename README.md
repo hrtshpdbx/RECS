@@ -72,6 +72,8 @@ The RECS 2009 survey collects energy-related data from 12,083 randomly selected 
 - Implement an ensemble model combining predictions from various base models (Linear Regression, XGBoost, Random Forest, Neural Network).
 - Achieve a significant improvement in predictive accuracy, with the ensemble model outperforming individual models and the baseline.
 
+![comparison](https://github.com/hrtshpdbx/RECS-2009/blob/main/images/comparison.png)
+
 ## Conclusion
 The proposed data-driven framework leverages ensemble learning techniques and advanced data preprocessing methods to accurately predict annual household electricity consumption. This approach facilitates better resource management, energy conservation, and the development of tailored energy policies.
 
